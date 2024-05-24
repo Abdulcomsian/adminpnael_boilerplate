@@ -251,7 +251,7 @@
                                         <a href="#" class="card bg-success hoverable card-xl-stretch mb-5 mb-xl-8">
                                             <!--begin::Body-->
                                             <div class="card-body">
-                                                <!--begin::Svg Icon | path: icons/duotone/Shopping/Chart-bar1.svg-->
+                                                <!--begin::Svg Icon | path: icons/duotone/Shopping/Chart-bar1.svg--->
                                                 <span class="svg-icon svg-icon-white svg-icon-3x ms-n1">
                                                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
                                                         <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
